@@ -1,0 +1,10 @@
+title: Advanced Control for Robotic
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+
+url: https://clearlab-sustech.github.io/ACR2024
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+nav_enabled: false
