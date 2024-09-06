@@ -4,7 +4,11 @@ theme: just-the-docs
 
 url: https://clearlab-sustech.github.io/ACR2024/
 
+logo: "/assets/images/cropped-logo-green-03.png"
+
+favicon_ico: "/assets/images/20240906-152343.ico"
+
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  CLEAR_LAB: https://space.bilibili.com/474380277?spm_id_from=333.337.0.0
 
 nav_enabled: false

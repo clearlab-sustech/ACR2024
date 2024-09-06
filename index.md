@@ -28,14 +28,6 @@ layout: minimal
 
 ----
 
-## Links
-
-- [Clear-Lab](https://www.wzhanglab.site)
-- [Course site](https://clearlab-sustech.github.io/ARC2024)
-- [Bilibili](https://space.bilibili.com/474380277)
-
-----
-
 ## Target Students  
 
 - PhD students in robotics with a strong need of advanced control
