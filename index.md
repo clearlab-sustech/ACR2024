@@ -24,7 +24,7 @@ layout: minimal
 - **Classroom**: Classroom 524, Teaching Building One
 - **Time**: Week 1-16, Wednesday 19:00 pm - 22:00 pm;
 - **Teacher**: Wei Zhang(zhangw3@sustech.edu.cn)
-- **TA**: Haokai Su(12433009@mail.sustech.edu.cn), Zhiyi Gao
+- **TA**: Jiaqi Song(12433008@mail.sustech.edu.cn), Haokai Su(12433009@mail.sustech.edu.cn)
 
 ----
 
