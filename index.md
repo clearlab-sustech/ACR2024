@@ -3,9 +3,9 @@ title: Home
 layout: minimal
 ---
 
-# SDM5008 Advanced Control for Robotics (Fall 2024)
+# SDM5008 (F24) Advanced Control for Robotics
 
-## What is this course about?
+## Course Objectives
 
 - Develop a solid foundation in robot modeling, control and learning to conduct cutting edge research in robotics
  - **Math**: Probability, optimization, stochastic systems
