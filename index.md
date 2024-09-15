@@ -3,15 +3,15 @@ title: Home
 layout: minimal
 ---
 
-# SDM5008 Advanced Control for Robotics
+# SDM5008 Advanced Control for Robotics (Fall 2024)
 
 ## What is this course about?
 
 - Develop a solid foundation in robot modeling, control and learning to conduct cutting edge research in robotics
-  - **Math**: Probability, optimization, stochastic systems
-  - **Modeling**: Advanced rigid body kinematics and dynamics
-  - **Control**: Differential IK, Model predictive control
-  - **Learning**: MDP, Deep Reinforcement learning
+ - **Math**: Probability, optimization, stochastic systems
+ - **Modeling**: Advanced rigid body kinematics and dynamics
+ - **Control**: Differential IK, Model predictive control
+ - **Learning**: MDP, Deep Reinforcement learning
 
 ----
 
@@ -65,13 +65,24 @@ layout: minimal
 
 ## Prerequisite
 
-- Introduction to robotics
+- Undergraduate introductory robotics course
   - Solid background in rigid body kinematics and dynamics in the level described in standard beginner textbooks, such as:
     - “Introduction to Robotics: Mechanics and Control”, J. Craig
     - “Robot Modeling and Control”, M. Spong, S. Hutchinton, and M. Vidyasagar
 - Undergraduate class in control
 - Maturity in math, solid understanding in linear algebra (see tutorial notes in linear algebra), good at abstract reasoning
 - Programming skills: **Python**
+
+
+## Lecture Notes 
+- to be updated
+
+## Homework
+- [Homework 1](./homework/hw1_F24.pdf) (due Sep 25)
+  
+
+## MISC
+- [Python Tutorial - Basics](./misc/ACR24_PythonTutorial.ipynb) (numerous Python resources are available online, you are expected to learn more by yourself)
 
 ## Background Reading
 
@@ -90,10 +101,6 @@ layout: minimal
 - https://spinningup.openai.com/en/latest/
 - https://rail.eecs.berkeley.edu/deeprlcourse/
 - Lecture notes, and papers distributed in class
-
-# FALL 2024
-
-You can find all of the notes and homeworks for the FALL 2024 SDM5088 course, updated continuously as the course progresses.
 
 <!-- ## Notes
 
