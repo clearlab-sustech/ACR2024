@@ -75,7 +75,8 @@ layout: minimal
 
 
 ## Lecture Notes 
-- to be updated
+- [Lecture Note 1](./LectureNotes/LN1_RigidBodyMotion.pdf): Rigid body configuration: \
+  <span style="color: green;">Rigid Body Configuration, Rigid Body Velocity(Twist), Geometric Aspect of Twist: Screw Motion</span>
 
 ## Homework
 - [Homework 1](./homework/hw1_F24.pdf) (due Sep 25)
