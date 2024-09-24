@@ -1,0 +1,11 @@
+simulation:
+  timestep: 0.001
+  fix_base: true
+control:
+  tau_limit:
+  - 40.0
+  - 40.0
+  - 40.0
+  - 40.0
+  - 40.0
+  - 40.0
