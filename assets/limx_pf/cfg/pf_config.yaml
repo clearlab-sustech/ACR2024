@@ -1,0 +1,6 @@
+simulation:
+  timestep: 0.001  # 仿真时间步长
+  fix_base: true   # 是否固定基座
+
+control:
+  tau_limit: [40.0, 40.0, 40.0, 40.0, 40.0, 40.0]  # 扭矩限制
