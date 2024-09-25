@@ -2,7 +2,9 @@
 title: Home
 layout: minimal
 ---
-
+<!-- website address
+https://clearlab-sustech.github.io/ACR2024/
+-->
 # SDM5008 (F24) Advanced Control for Robotics
 
 ## Course Objectives
@@ -77,9 +79,13 @@ layout: minimal
 ## Lecture Notes 
 - [Lecture Note 1](./LectureNotes/LN1_RigidBodyMotion.pdf): Rigid body configuration: \
   <span style="color: green;">Rigid Body Configuration, Rigid Body Velocity(Twist), Geometric Aspect of Twist: Screw Motion</span>
+- [Lecture Note 2](./LectureNotes/LN2_RigidBodyOperation.pdf): Operator view of rigid body operation \
+   <span style="color: green;"> Matrix exponential, rotation operator, rigid body operator, rigid body operator for screw axis </span>
+
 
 ## Homework
 - [Homework 1](./homework/hw1_F24.pdf) (due Sep 25)
+- [Homework 2](./homework/hw2_F24.pdf) (due Oct 10)
   
 
 ## MISC
@@ -94,8 +100,8 @@ layout: minimal
 
 ## Reference
 
-- [“Mathematical introduction to robotic manipulation”, R. Murray, Z. Li, S. Sastry](https://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)
-- ["Modern Robotics: Mechanics, Planning, and Control", Kevin M. Lynch and Frank C. Park, Cambridge University Press, 2017, ISBN 9781107156302](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)
+- [“Mathematical introduction to robotic manipulation”, R. Murray, Z. Li, S. Sastry](./misc/MathRobotics94.pdf)
+- ["Modern Robotics: Mechanics, Planning, and Control", Kevin M. Lynch and Frank C. Park, Cambridge University Press, 2017, ISBN 9781107156302](./misc/ModernRobotics.pdf)
 - [“Rigid Body Dynamics Algorithms”, Roy Featherston](https://www.springer.com/gp/book/9780387743141)
 - “Predictive Control for Linear and Hybrid Systems”, F. Borrelli, A. Bemporad, M. Morari, Cambridge University Press , July, 2017
 - http://www.mpc.berkeley.edu/mpc-course-material 
