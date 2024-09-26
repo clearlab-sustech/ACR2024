@@ -75,21 +75,24 @@ https://clearlab-sustech.github.io/ACR2024/
 - Maturity in math, solid understanding in linear algebra (see tutorial notes in linear algebra), good at abstract reasoning
 - Programming skills: **Python**
 
+## Lecture Notes
 
-## Lecture Notes 
 - [Lecture Note 1](./LectureNotes/LN1_RigidBodyMotion.pdf): Rigid body configuration: \
   <span style="color: green;">Rigid Body Configuration, Rigid Body Velocity(Twist), Geometric Aspect of Twist: Screw Motion</span>
 - [Lecture Note 2](./LectureNotes/LN2_RigidBodyOperation.pdf): Operator view of rigid body operation \
    <span style="color: green;"> Matrix exponential, rotation operator, rigid body operator, rigid body operator for screw axis </span>
 
-
 ## Homework
+
 - [Homework 1](./homework/hw1_F24.pdf) (due Sep 25)
 - [Homework 2](./homework/hw2_F24.pdf) (due Oct 10)
-  
+- [Mini Project](./homework/miniProject.pdf) (due Sep 29)
 
 ## MISC
+
 - [Python Tutorial - Basics](./misc/ACR24_PythonTutorial.ipynb) (numerous Python resources are available online, you are expected to learn more by yourself)
+- [Basics of Neural Network](./misc/LN0_IntroToNeuralNetwork.pdf)(Introduction to Neural Network)
+- [Neural Network Coding Tutorial](./misc/Introduction_to_neural_network.ipynb) (contains the implementation of key components of a neural network, including activation functions and the MLP architecture.)
 
 ## Background Reading
 
@@ -109,18 +112,3 @@ https://clearlab-sustech.github.io/ACR2024/
 - https://rail.eecs.berkeley.edu/deeprlcourse/
 - Lecture notes, and papers distributed in class
 
-<!-- ## Notes
-
-- [LN1 Linear Algebra Review](https://github.com/clearlab-sustech/SDM366-Sp24/raw/master/assets/files/LN1_LinearAlgebraReview.pdf)
-
-## Notes(handwriting)
-
-- [LN2](https://github.com/clearlab-sustech/SDM366-Sp24/raw/master/assets/files/LN2_handwriting.pdf)
-
-## Homeworks
-
-- [HW1](https://github.com/clearlab-sustech/SDM366-Sp24/raw/master/assets/files/SDM_Optimal_Control_and_Estimation_HW1.pdf)
-
-## Tutorials (Video Capture)
-
-- [Lec 1: 控制与机器学习的线性代数基础](https://www.bilibili.com/video/BV16v421r7bU/?spm_id_from=333.788) -->
