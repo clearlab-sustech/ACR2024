@@ -85,8 +85,8 @@ https://clearlab-sustech.github.io/ACR2024/
 ## Homework
 
 - [Homework 1](./homework/hw1_F24.pdf) (due Sep 25)
-- [Homework 2](./homework/hw2_F24.pdf) (due Oct 10)
-- [Mini Project](./homework/miniProject.pdf) (due Sep 29)
+- [Homework 2](./homework/hw2_F24.pdf) (due Oct 13)
+- [Mini Project](./homework/miniProject.pdf) (due Oct 13)
 
 ## MISC
 
