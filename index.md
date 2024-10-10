@@ -81,6 +81,9 @@ https://clearlab-sustech.github.io/ACR2024/
   <span style="color: green;">Rigid Body Configuration, Rigid Body Velocity(Twist), Geometric Aspect of Twist: Screw Motion</span>
 - [Lecture Note 2](./LectureNotes/LN2_RigidBodyOperation.pdf): Operator view of rigid body operation \
    <span style="color: green;"> Matrix exponential, rotation operator, rigid body operator, rigid body operator for screw axis </span>
+- [Lecture Note 3](./LectureNotes/LN3_ExpCoordinate.pdf): Exponential coordinate of rigid rody
+configuration \
+   <span style="color: green;"> Exponential coordinate of SO(3), Euler Angles and Euler-Like Parameterizations, Exponential coordinate of SE(3) </span>
 
 ## Homework
 
