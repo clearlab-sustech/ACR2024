@@ -79,11 +79,16 @@ https://clearlab-sustech.github.io/ACR2024/
 
 - [Lecture Note 1](./LectureNotes/LN1_RigidBodyMotion.pdf): Rigid body configuration: \
   <span style="color: green;">Rigid Body Configuration, Rigid Body Velocity(Twist), Geometric Aspect of Twist: Screw Motion</span>
-- [Lecture Note 2](./LectureNotes/LN2_RigidBodyOperation.pdf): Operator view of rigid body operation \
+- [Lecture Note 2](./LectureNotes/LN2_RigidBodyOperation.pdf): Operator view of rigid body operation: \
    <span style="color: green;"> Matrix exponential, rotation operator, rigid body operator, rigid body operator for screw axis </span>
 - [Lecture Note 3](./LectureNotes/LN3_ExpCoordinate.pdf): Exponential coordinate of rigid rody
-configuration \
+configuration: \
    <span style="color: green;"> Exponential coordinate of SO(3), Euler Angles and Euler-Like Parameterizations, Exponential coordinate of SE(3) </span>
+- [Lecture Note 4](./LectureNotes/LN4_InstantaneousVelocityofMovingFrames.pdf): Instantaneous Velocity of Moving Frames: \
+   <span style="color: green;"> Instantaneous Velocity of Rotating Frames, Instantaneous Velocity of Moving Frames </span>
+- [Lecture Note 5](./LectureNotes/LN5_kinematics.pdf): Product of Exponential and
+Kinematics of Open Chain: \
+   <span style="color: green;"> Motivating Example, Product of Exponential Formula Derivations, Practice Example </span>
 
 ## Homework
 
