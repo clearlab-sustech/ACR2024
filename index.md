@@ -89,6 +89,8 @@ configuration: \
 - [Lecture Note 5](./LectureNotes/LN5_kinematics.pdf): Product of Exponential and
 Kinematics of Open Chain: \
    <span style="color: green;"> Motivating Example, Product of Exponential Formula Derivations, Practice Example </span>
+- [Lecture Note 6](./LectureNotes/LN5_kinematics.pdf): Velocity Kinematics: Geometric and Analytic Jacobian of Open Chain: \
+   <span style="color: green;"> Geometric Jacobian Derivations, Analyic Jacobian </span>
 
 ## Homework
 
