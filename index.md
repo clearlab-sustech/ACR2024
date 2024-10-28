@@ -96,6 +96,7 @@ Kinematics of Open Chain: \
 
 - [Homework 1](./homework/hw1_F24.pdf) (due Sep 25)
 - [Homework 2](./homework/hw2_F24.pdf) (due Oct 13)
+- [Homework 3](./homework/hw3_F24.pdf) (due Nov 3)
 - [Mini Project](./homework/miniProject.pdf) (due Oct 13)
 
 ## MISC
@@ -103,6 +104,7 @@ Kinematics of Open Chain: \
 - [Python Tutorial - Basics](./misc/ACR24_PythonTutorial.ipynb) (numerous Python resources are available online, you are expected to learn more by yourself)
 - [Basics of Neural Network](./misc/LN0_IntroToNeuralNetwork.pdf)(Introduction to Neural Network)
 - [Neural Network Coding Tutorial](./misc/Introduction_to_neural_network.ipynb) (contains the implementation of key components of a neural network, including activation functions and the MLP architecture.)
+- [Mujoco Installation Tutorial](./misc/mujoco_tutorial.pdf)(contains how to install miniconda3 and mujoco.)
 
 ## Background Reading
 
