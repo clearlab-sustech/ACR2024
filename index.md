@@ -86,11 +86,16 @@ configuration: \
    <span style="color: green;"> Exponential coordinate of SO(3), Euler Angles and Euler-Like Parameterizations, Exponential coordinate of SE(3) </span>
 - [Lecture Note 4](./LectureNotes/LN4_InstantaneousVelocityofMovingFrames.pdf): Instantaneous Velocity of Moving Frames: \
    <span style="color: green;"> Instantaneous Velocity of Rotating Frames, Instantaneous Velocity of Moving Frames </span>
-- [Lecture Note 5](./LectureNotes/LN5_kinematics.pdf): Product of Exponential and
-Kinematics of Open Chain: \
+- [Lecture Note 5](./LectureNotes/LN5_kinematics.pdf): Product of Exponential and Kinematics of Open Chain: \
    <span style="color: green;"> Motivating Example, Product of Exponential Formula Derivations, Practice Example </span>
-- [Lecture Note 6](./LectureNotes/LN5_kinematics.pdf): Velocity Kinematics: Geometric and Analytic Jacobian of Open Chain: \
+- [Lecture Note 6](./LectureNotes/LN6_VelocityKinematics.pdf): Velocity Kinematics: Geometric and Analytic Jacobian of Open Chain: \
    <span style="color: green;"> Geometric Jacobian Derivations, Analyic Jacobian </span>
+- [Lecture Note 7](./LectureNotes/LN7_RigidBodyDynamics.pdf): Rigid Body Dynamics: \
+   <span style="color: green;"> Spatial Acceleration, Spatial Force, Spatial Momentum </span>
+- [Lecture Note 8](./LectureNotes/LN8-MujocoTutorial.pdf): Mujoco Tutorial: \
+   <span style="color: green;"> Short introduction to simulation, Introduction to Mujoco, Python Example </span>
+- [Lecture Note 9](./LectureNotes/LN9_F24_ProbabilityReview.pdf): Probability Review for Reinforcement Learning: \
+   <span style="color: green;"> Probability and Conditional Probability, Random Variables and Random Vectors, Jointly Distributed Random Vectors and Conditional Expectation </span>
 
 ## Homework
 
