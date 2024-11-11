@@ -77,24 +77,23 @@ https://clearlab-sustech.github.io/ACR2024/
 
 ## Lecture Notes
 
-- [Lecture Note 1](./LectureNotes/LN1_RigidBodyMotion.pdf): Rigid body configuration: \
+- **Lecture Note 1: Rigid body configuration** [[PDF]](./LectureNotes/LN1_RigidBodyMotion.pdf) [[Notes]](./LectureNotes/Notes/LN1_RigidBodyMotion.pdf)\
   <span style="color: green;">Rigid Body Configuration, Rigid Body Velocity(Twist), Geometric Aspect of Twist: Screw Motion</span>
-- [Lecture Note 2](./LectureNotes/LN2_RigidBodyOperation.pdf): Operator view of rigid body operation: \
+- **Lecture Note 2: Operator view of rigid body operation** [[PDF]](./LectureNotes/LN2_RigidBodyOperation.pdf) [[Notes]](./LectureNotes/Notes/LN2_RigidBodyOperation.pdf)\
    <span style="color: green;"> Matrix exponential, rotation operator, rigid body operator, rigid body operator for screw axis </span>
-- [Lecture Note 3](./LectureNotes/LN3_ExpCoordinate.pdf): Exponential coordinate of rigid rody
-configuration: \
+- **Lecture Note 3: Exponential coordinate of rigid rody configuration** [[PDF]](./LectureNotes/LN3_ExpCoordinate.pdf) [[Notes]](LectureNotes/Notes/LN3_ExpCoordinate.pdf)\
    <span style="color: green;"> Exponential coordinate of SO(3), Euler Angles and Euler-Like Parameterizations, Exponential coordinate of SE(3) </span>
-- [Lecture Note 4](./LectureNotes/LN4_InstantaneousVelocityofMovingFrames.pdf): Instantaneous Velocity of Moving Frames: \
+- **Lecture Note 4: Instantaneous Velocity of Moving Frames** [[PDF]](./LectureNotes/LN4_InstantaneousVelocityofMovingFrames.pdf) [[Notes]](./LectureNotes/Notes/LN4_InstantaneousVelocityofMovingFrames.pdf)\
    <span style="color: green;"> Instantaneous Velocity of Rotating Frames, Instantaneous Velocity of Moving Frames </span>
-- [Lecture Note 5](./LectureNotes/LN5_kinematics.pdf): Product of Exponential and Kinematics of Open Chain: \
+- **Lecture Note 5: Product of Exponential and Kinematics of Open Chain** [[PDF]](./LectureNotes/LN5_kinematics.pdf) [[Notes]](./LectureNotes/Notes/LN5_kinematics.pdf)\
    <span style="color: green;"> Motivating Example, Product of Exponential Formula Derivations, Practice Example </span>
-- [Lecture Note 6](./LectureNotes/LN6_VelocityKinematics.pdf): Velocity Kinematics: Geometric and Analytic Jacobian of Open Chain: \
+- **Lecture Note 6: Velocity Kinematics: Geometric and Analytic Jacobian of Open Chain** [[PDF]](./LectureNotes/LN6_VelocityKinematics.pdf) [[Notes]](./LectureNotes/Notes/LN6_VelocityKinematics.pdf)\
    <span style="color: green;"> Geometric Jacobian Derivations, Analyic Jacobian </span>
-- [Lecture Note 7](./LectureNotes/LN7_RigidBodyDynamics.pdf): Rigid Body Dynamics: \
+- **Lecture Note 7: Rigid Body Dynamics** [[PDF]](./LectureNotes/LN7_RigidBodyDynamics.pdf) [[Notes]](LectureNotes/Notes/LN7_RigidBodyDynamics.pdf)\
    <span style="color: green;"> Spatial Acceleration, Spatial Force, Spatial Momentum </span>
-- [Lecture Note 8](./LectureNotes/LN8-MujocoTutorial.pdf): Mujoco Tutorial: \
+- **Lecture Note 8: Mujoco Tutorial** [[PDF]](./LectureNotes/LN8-MujocoTutorial.pdf) [[Notes]](LectureNotes/Notes/LN8-MujocoTutorial.pdf) \
    <span style="color: green;"> Short introduction to simulation, Introduction to Mujoco, Python Example </span>
-- [Lecture Note 9](./LectureNotes/LN9_F24_ProbabilityReview.pdf): Probability Review for Reinforcement Learning: \
+- **Lecture Note 9: Probability Review for Reinforcement Learning** [[PDF]](./LectureNotes/LN9_F24_ProbabilityReview.pdf) \
    <span style="color: green;"> Probability and Conditional Probability, Random Variables and Random Vectors, Jointly Distributed Random Vectors and Conditional Expectation </span>
 
 ## Homework
