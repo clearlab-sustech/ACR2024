@@ -93,8 +93,10 @@ https://clearlab-sustech.github.io/ACR2024/
    <span style="color: green;"> Spatial Acceleration, Spatial Force, Spatial Momentum </span>
 - **Lecture Note 8: Mujoco Tutorial** [[PDF]](./LectureNotes/LN8-MujocoTutorial.pdf) [[Notes]](LectureNotes/Notes/LN8-MujocoTutorial.pdf) \
    <span style="color: green;"> Short introduction to simulation, Introduction to Mujoco, Python Example </span>
-- **Lecture Note 9: Probability Review for Reinforcement Learning** [[PDF]](./LectureNotes/LN9_F24_ProbabilityReview.pdf) \
+- **Lecture Note 9: Probability Review for Reinforcement Learning** [[PDF]](./LectureNotes/LN9_F24_ProbabilityReview.pdf) [[Notes]](./LectureNotes/Notes/LN9_F24_ProbabilityReview.pdf) \
    <span style="color: green;"> Probability and Conditional Probability, Random Variables and Random Vectors, Jointly Distributed Random Vectors and Conditional Expectation </span>
+- **Lecture Note 10: Markov Decision Process for Reinforcement Learning** [[PDF]](./LectureNotes/Lec10_MDP.pdf) \
+    <span style="color: green;"> Markov chain, Markov decision process, Bellman equations, Simulations </span>
 
 ## Homework
 
